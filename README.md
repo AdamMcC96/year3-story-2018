@@ -10,3 +10,5 @@ my github fork link: https://github.com/AdamMcC96/year3-story-2018.git
 UPDATE: Chapter 1 completed
 
 UPDATE: Created Chaper 2 & fixed a spelling error in Chapter 1
+
+UPDATE: Created template for chapter02.html
