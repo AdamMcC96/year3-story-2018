@@ -6,3 +6,5 @@ for this repo, to use as a starting point for your story
 
 .. matt smith ...
 my github fork link: https://github.com/AdamMcC96/year3-story-2018.git
+
+UPDATE: Chapter 1 completed
