@@ -14,3 +14,5 @@ UPDATE: Created Chaper 2 & fixed a spelling error in Chapter 1
 UPDATE: Created template for chapter02.html
 
 UPDATE: Changed header from Chapter 1 to Chapter 2 in chapter02.html
+
+UPDATE: Wrote the first paragraph of Chaper 2 and added a link to Chapter 1
