@@ -12,3 +12,5 @@ UPDATE: Chapter 1 completed
 UPDATE: Created Chaper 2 & fixed a spelling error in Chapter 1
 
 UPDATE: Created template for chapter02.html
+
+UPDATE: Changed header from Chapter 1 to Chapter 2 in chapter02.html
