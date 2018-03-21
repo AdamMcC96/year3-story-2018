@@ -18,3 +18,5 @@ UPDATE: Changed header from Chapter 1 to Chapter 2 in chapter02.html
 UPDATE: Wrote the first paragraph of Chaper 2 and added a link to Chapter 1
 
 UPDATE: Finished Chapter 2
+
+UPDATE: Fixed a spelling mistake in Chapter 2
