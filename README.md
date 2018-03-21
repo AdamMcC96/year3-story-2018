@@ -30,3 +30,5 @@ UPDATE: Completed Chapter 3
 UPDATE: Fixed a spelling mistake in chapter03.html and added a link to Chapter 3 in chapter02.html
 
 UPDATE: Added a link to Chapter 2 in Chapter 3
+
+UPDATE: Added a link to Chapter 1 in Chapter 2
