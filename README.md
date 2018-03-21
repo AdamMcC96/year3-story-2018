@@ -22,3 +22,5 @@ UPDATE: Finished Chapter 2
 UPDATE: Fixed a spelling mistake in Chapter 2
 
 UPDATE: Created the first paragraph in Chapter 3 <alternative-ending>
+
+UPDATE: Completed Chapter 3 and added a link to Chapter 2
