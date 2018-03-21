@@ -24,3 +24,5 @@ UPDATE: Fixed a spelling mistake in Chapter 2
 UPDATE: Created Chapter 3 and wrote the first paragraph
 
 UPDATE: Fixed some spelling errors in chapter03.html
+
+UPDATE: Completed Chapter 3
